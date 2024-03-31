@@ -1,3 +1,5 @@
+chnges made as emo 
+
 Types of data available?
 	3 types of data available [unstructured, semi-structured, structured]
 	
