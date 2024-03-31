@@ -1,0 +1,96 @@
+Types of data available?
+	3 types of data available [unstructured, semi-structured, structured]
+	
+Types of data storage formats?
+	a) File 
+	b) Table
+
+Types of storage areas?
+	On-Premise: Within the organization storage [your machine, your device etc.]
+	Cloud: Somebody else's storage area 
+
+Types of clouds?
+	Many types [iaas, paas, saas etc.]. Mostly clouds accessed using URL and an account.
+	Streaming clouds:
+					Prime Video[PrimeVideo.com], Netflix[Netflix.com], Hot Star etc.
+					Annual Price: Rs.1000+
+					NetFlix: Single user, Multiple Users, TV account, Mobile etc.
+	
+	Data Storage Clouds:
+				OneDrive [OneDrive.in]
+				DropBox
+				Google Drive: [Drive.Google.com]
+						15 GB: Free
+						100 GB: Rs. 131+ taxes
+						2 TB: Rs.650 + Taxes
+	Storage + Managing Clouds:
+	
+			Medium Sized:
+			
+					Power BI Service: app.powerbi.com [you will get storage + multiple managing features]
+						Accounts: The authorization with required features to connect and work with.
+						
+						Pro:  Single User, 10 GB, $15/month, Limited Features
+						Premium Per User[PPU]: Single User, 10 GB, $30/month, Premium Features
+						Premium Capacity: Multiple users, More Storage, More Capacity etc.
+						
+												P1: Premium 1: Server 1 Type: 25 GB RAM, 8 Vcores, TBs Space, $7500/month
+												P2: Premium 2: Server 2 Type: 50 GB RAM, 16 Vcores, TBs Space, $15000/month
+												P3: Premium 3: Server 3 Type: 100 GB RAM, 32 Vcores, TBs Space, NA
+						Power BI Embed: Power BI + Azure 
+						Microsoft Fabric Account:  Power BI + ADF + Synapse+ Data Activator account
+			
+Which account companies use a lot?
+		Wrong question...
+		Depending on the storage, processing, users usage, features usage the accounts will be...
+		
+		Small Companies: Pro accounts [multiple]
+		Medium Companies: Pro accounts + Premium -P1
+		Large Organizations: Multiple P1, P2 and P3
+
+What type of accounts you have seen in your experience?
+			BOA: 32 accounts, 2 P1, 1 P2
+			Wallmart: 70+ pro accounts, 3 P1, 2 P2, 1 P3
+					
+			Heavy Sized and more features:
+					Azure: A powerful vast cloud platform to perform various operations using distinct services.
+						
+								Pay-As-You-Go type of payment method available.
+								
+								VM : Virtual Machines
+								Networking Operations
+								Data Storage [SQL Database, Blob, CLOB etc.]
+								Data Warehouses: SQL Warehouses
+								Anallytics Storage: Snowflake, Synapse, AAS etc.
+								Data Science
+								AI 
+								BI OPerations: 
+												ADF: Azure Data Factory: Data Integration: Cloud ETL [similar to SSIS-MSBI on-premise]
+												AAS: Azure Analysis Services: Semantic Models: Cloud Semantics [similar to SSAS-MSBI on-premise
+												Synapse
+												Snowflake
+												SQL Data warehouse etc.
+							Note: 
+							a) If we use Azure components for BI operations, then we can consider as Azure BI.
+							b) MSBI and Power BI are available physically downloadable softwares.
+	
+						Microsoft BI Products:
+									On-Premise with reporting: MSBI		
+									Cloud without reporting: Azure BI
+									Cloud and On-premise seperate model with reporting: Power BI
+									
+						Note: No more Azure BI terminology since ADF and Synapse taken in a suite called Microsoft Fabric.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
